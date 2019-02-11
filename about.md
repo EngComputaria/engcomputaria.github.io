@@ -1,16 +1,31 @@
 ---
-title: About
+title: Sobre
 permalink: /about
 ---
 
-Driftwood is a test project for the purpose of creating a lightweight and easy tool for hosting and serving podcasts on Github using Jekyll. Additionally, the goal is to be able to record, edit, and post using just a mobile device like an iPhone or iPad. 
+<p align="center">
+  <img src="https://github.com/EngComputaria.png" style="width: 25%; height: 25%"/>​
+</p>
+
+Engenhação da Computaria é um podcast com propósito de mostrar oque é Engenharia da Computação na sua mais pura essência, falando de Sistemas Embarcados, Eletrônica, Sistemas e etc.
 
 # Host
 
-Put your own information here.
+<p align="center">
+  <img src="https://github.com/Calebe94.png" style="width: 25%; height: 25%"/>​
+</p>
 
-# Attributions
+**Olá**,
+Meu nome é **Edimar Calebe Castanho**, também conhecido como [**Calebe94**](https://twitter.com/calebe94), atualmente estou cursando o 5º ano de Engenharia da Computação. 
 
-The theme for Driftwood is adapted from [Kiko](http://github.com/gfjaru/Kiko), which is courtesy of [@gfjaru](https://twitter.com/gfjaru) under the MIT License.
+Me siga nas redes sociais:
 
-The [Driftwood](https://github.com/LK64076007A/driftwood) "microcast podcasting platform" is made by Michael, [@LK64076007A ](https://twitter.com/LK64076007A).
+* [Github: Calebe94](https://github.com/Calebe94)
+* [Twitter: Calebe94](https://twitter.com/Calebe94)
+* [Reddit: Calebe94](https://reddit.com/u/Calebe94)
+
+Ou me mande um [e-mail](mailto:engdacomputaria@gmail.com) em: engdacomputaria@gmail.com.
+
+# Agradecimentos
+
+[Driftwood](https://github.com/LK64076007A/driftwood) é o tema/plataforma de podcast utilizado neste site, e foi desenvolvido por [Michael(LK64076007A)](https://twitter.com/LK64076007A).
