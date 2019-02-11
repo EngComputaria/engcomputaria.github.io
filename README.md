@@ -1,10 +1,25 @@
-# Driftwood
-A lightweight tool for quickly creating, hosting, and publishing a podcast using Github and Jekyll. 
+# Engenhação da Computaria Webpage
 
-If you make a podcast using this template, please [let me know](http://twitter.com/lk64076007A/) so I can subscribe. 
+<p align="center">
+  <img src="https://github.com/EngComputaria.png" style="width: 25%; height: 25%"/>​
+</p>
 
-To get started, look at the START_HERE.md file for instructions. Let me know if you have any questions. 
+Página principal do podcast [Engenhação da Computaria](https://engcomputaria.github.io).
 
-# Attributions
+Desenvolvido utilizando Github e Jeckyll o template de [Michael(LK64076007A)](https://twitter.com/LK64076007A).
 
-The theme for Driftwood is adapted from <a href="http://github.com/gfjaru/Kiko">Kiko</a>, which is courtesy of [@gfjaru](https://twitter.com/gfjaru) under the MIT License.
+# Team
+
+| <img src="https://github.com/Calebe94.png?size=200" alt="Edimar Calebe Castanho"> | 
+|:---------------------------------------------------------------------------------:|
+| [Edimar Calebe Castanho (Calebe94)](https://github.com/Calebe94)                  |
+
+# License
+
+All software is covered under [MIT License](https://opensource.org/licenses/MIT).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
