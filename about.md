@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 Driftwood is a test project for the purpose of creating a lightweight and easy tool for hosting and serving podcasts on Github using Jekyll. Additionally, the goal is to be able to record, edit, and post using just a mobile device like an iPhone or iPad. 
