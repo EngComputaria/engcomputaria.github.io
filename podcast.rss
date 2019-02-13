@@ -14,7 +14,7 @@ layout: rss
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}{{site.baseurl}}</link>
-			<url>{{ site.url }}{{site.baseurl}}/images/itunes.png</url>
+			<url>https://github.com/engcomputaria/logo/raw/master/images/engcomputaria_flat_full_tracks.png</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
@@ -25,7 +25,7 @@ layout: rss
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}{{site.baseurl}}/images/itunes.png" />
+		<itunes:image href="https://github.com/engcomputaria/logo/raw/master/images/engcomputaria_flat_full_tracks.png" />
 		<itunes:category text="Technology">
 			<itunes:category text="Podcasting" />
 		</itunes:category>
@@ -52,7 +52,7 @@ layout: rss
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}{{site.baseurl}}/images/itunes.png" />
+				<itunes:image href="https://github.com/engcomputaria/logo/raw/master/images/engcomputaria_flat_full_tracks.png" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
 			</item>
