@@ -26,7 +26,7 @@ timezone: Brazil/Sao_Paulo #CHANGE
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "Sobre"
     href:           "/about" # CHANGE "microcast" to match your repository
   - name:           "Feed"
     href:           "/podcast.rss" # CHANGE "microcast" to match your repository
@@ -34,6 +34,8 @@ nav:
     href:           "http://anchor.fm/engcomputaria" #CHANGE
   - name:           "SoundCloud"
     href:           "https://soundcloud.com/engenhacao-da-computaria" # CHANGE
+  - name:           "Pocket Casts"
+    href:           "https://pca.st/ILxL"
 
 # Sass
 sass:
