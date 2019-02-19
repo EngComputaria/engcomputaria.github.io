@@ -1,7 +1,7 @@
 # Engenhação da Computaria Webpage
 
 <p align="center">
-  <img src="https://github.com/EngComputaria.png" style="width: 25%; height: 25%"/>​
+  <img src="https://github.com/engcomputaria/logo/raw/master/images/engcomputaria.png" height="280" width="280">
 </p>
 
 Página principal do podcast [Engenhação da Computaria](https://engcomputaria.github.io).
