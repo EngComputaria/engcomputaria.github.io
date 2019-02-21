@@ -14,7 +14,6 @@ lang:           en-us
 author:         Calebe94 # CHANGE
 copyright:      "&#x2117; &amp; &#xA9; 2016"
 
-
 # Outputting
 permalink: /:title/
 
@@ -28,30 +27,31 @@ timezone: Brazil/Sao_Paulo #CHANGE
 nav:
   - name:           "Sobre"
     href:           "/about" # CHANGE "microcast" to match your repository
+    target:         "_self"    
     
   - name:           "Feed"
     href:           "/podcast.rss" # CHANGE "microcast" to match your repository
+    target:         "_self"
   
   - name:           "Anchor"
     href:           "http://anchor.fm/engcomputaria"
+    target:         "_blank"
 
   - name:           "Spotify"
     href:           "https://open.spotify.com/show/0ku0pRGk0FM5ImyZojaYic"
+    target:         "_blank"
 
   - name:           "Google Podcasts"
     href:           "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85MWE5OTM0L3BvZGNhc3QvcnNz"
+    target:         "_blank"
 
   - name:           "SoundCloud"
-    href:           "https://soundcloud.com/engenhacao-da-computaria" # CHANGE
-  
-  - name:           "Pocket Casts"
-    href:           "https://pca.st/ILxL"
-  
-  - name:           "Breaker"
-    href:           "https://www.breaker.audio/engenhacao-da-computaria"
-  
-  - name:           "Radio Public"
-    href:           "https://radiopublic.com/engenhao-da-computaria-GyZgNZ"
+    href:           "https://soundcloud.com/engenhacao-da-computaria" 
+    target:         "_blank"
+    
+  - name:           "iTunes"
+    href:           "https://itunes.apple.com/br/podcast/"
+    target:         "_blank"
 
 # Sass
 sass:

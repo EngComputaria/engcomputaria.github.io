@@ -1,8 +1,8 @@
 # TODO
 
-* Criar uma logo 1400x1400
-    * Colocar trilhas eletrônicas na logo
+* [x]: Criar uma logo 1400x1400
+    * [x]: Colocar trilhas eletrônicas na logo (não necessário, mas as logos podem ser encontradas em https://github.com/EngComputaria/logo)
 
-* Trocar entradas da imagem no feed. (colocar o path do github do branch master).
+* [x]: Trocar entradas da imagem no feed. (colocar o path do github do branch master).
 
-* Trocar o nome da página "**about**" para "**sobre**"
+* [x]: Trocar o nome da página "**about**" para "**sobre**"
