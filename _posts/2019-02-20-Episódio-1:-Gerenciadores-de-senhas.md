@@ -17,4 +17,3 @@ permalink: /1 # will be the ending part of the pages URL, delete to default to t
     Your browser does not support the audio element.
 </audio>
 {{ page.shownotes }}
-
